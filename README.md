@@ -1,5 +1,5 @@
 # Projeto 02: Sistema de Análise de Vendas de Loja
-
+Eduardo Verçosa - 2527655 - Projeto MBA Ciência de dados - Unifor
 ## 📋 Objetivo
 
 Desenvolver um sistema para análise de vendas de uma loja que permita registrar vendas, calcular estatísticas de vendas por vendedor, produto e período, além de identificar produtos mais vendidos e melhores vendedores.
