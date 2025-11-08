@@ -1,0 +1,10 @@
+Ignorar arquivos de sistema
+
+*.pyc
+pycache/
+
+Ignorar arquivos gerados pelo programa
+
+(Não queremos versionar os relatórios, apenas o código que os gera)
+
+/relatorios/
